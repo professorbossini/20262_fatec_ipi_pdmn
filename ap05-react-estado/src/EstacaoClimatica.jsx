@@ -1,4 +1,6 @@
 // rcc: react class component
+// acessibilidade: wai-aria
+//css feito para os deficientes visuais
 import React, { Component } from 'react'
 
 export default class EstacaoClimatica extends Component {
