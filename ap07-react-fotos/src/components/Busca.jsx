@@ -6,6 +6,7 @@ import { InputText } from '@primereact/ui/inputtext'
 import { Search } from '@primeicons/react/search'
 export default class Busca extends Component {
 
+ 
   state = {
     termoDeBusca: ''
   }
