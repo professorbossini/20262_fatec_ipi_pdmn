@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "@config-plugins/react-native-blob-util",
+    "@config-plugins/react-native-pdf",
+    "expo-splash-screen",
+    "expo-status-bar"
+  ],
+  "name": "ap001-rn-hello-world-example-with-pdf",
+  "slug": "ap001-rn-hello-world-example-with-pdf"
+}
